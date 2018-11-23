@@ -31,10 +31,10 @@ static const char LQPresentAnimateOrginViewKey = '1';
     
     if (operation == UINavigationControllerOperationPush) {
         
-        return [LQTransitAnimation transitionWithType:(LQTransitionTypePush) animateType:(LQTransitAnimationTypeScale) originView:self.originView];
+        return [LQTransitAnimation transitionWithType:(LQTransitionTypePush) animateType:(LQTransitAnimationTypeCircle) originView:self.originView];
     } else if (operation == UINavigationControllerOperationPop) {
         
-        return [LQTransitAnimation transitionWithType:(LQTransitionTypePop) animateType:(LQTransitAnimationTypeScale) originView:self.originView];
+        return [LQTransitAnimation transitionWithType:(LQTransitionTypePop) animateType:(LQTransitAnimationTypeCircle) originView:self.originView];
     }
     
     return nil;

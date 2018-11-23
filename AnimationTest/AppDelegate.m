@@ -22,7 +22,7 @@
     PushTestViewController *push = [[PushTestViewController alloc]init];
     
     UINavigationController *navi = [[UINavigationController alloc]initWithRootViewController:push];
-    
+#warning - 将此行解注释，可查看导航的效果
 //    self.window.rootViewController = navi ;
     return YES;
 }

@@ -202,8 +202,8 @@
 				D2FBAD9121A7F0280029E09D /* LQTransitAnimation.m */,
 				D2FBAD9021A7F0280029E09D /* UIViewController+LQPresentAnimate.h */,
 				D2FBAD9521A7F0280029E09D /* UIViewController+LQPresentAnimate.m */,
-				D2FBAD9221A7F0280029E09D /* UIViewController+LQPush.m */,
 				D2FBAD9321A7F0280029E09D /* UIViewController+LQPush.h */,
+				D2FBAD9221A7F0280029E09D /* UIViewController+LQPush.m */,
 			);
 			name = LQTransitAnimation;
 			path = class/LQTransitAnimation;
