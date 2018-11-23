@@ -58,4 +58,4 @@
 示意图
 ![LQTransitAnimationTypeScale](https://github.com/LQi2009/LQTransitAnimation/blob/master/scale.gif)
 
-![LQTransitAnimationTypeCircle](https://github.com/LQi2009/LQTransitAnimation/blob/master/scale.gif)
+![LQTransitAnimationTypeCircle](https://github.com/LQi2009/LQTransitAnimation/blob/master/circle.gif)
