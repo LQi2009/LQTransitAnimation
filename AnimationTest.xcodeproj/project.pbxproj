@@ -524,8 +524,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = A7Z8D56N52;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = 3FEA4VKGS4;
 				INFOPLIST_FILE = AnimationTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -534,6 +534,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.lqshare.AnimationTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = GMDevelop;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -542,8 +543,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = A7Z8D56N52;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = 3FEA4VKGS4;
 				INFOPLIST_FILE = AnimationTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -552,6 +553,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.lqshare.AnimationTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = GMDevelop;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;

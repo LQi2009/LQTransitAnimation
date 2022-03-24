@@ -59,7 +59,7 @@
     
     UITableViewCell *cell = [tableView cellForRowAtIndexPath:indexPath];
     
-    [cell startAnimate];
+//    [cell startAnimate];
     return YES;
 }
 
@@ -71,7 +71,7 @@
     
     UITableViewCell *cell = [tableView cellForRowAtIndexPath:indexPath];
     
-    [cell endAnimate];
+//    [cell endAnimate];
 }
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
